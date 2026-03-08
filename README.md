@@ -18,18 +18,18 @@ prioritized feed. Full PRD, AI architecture, Supabase schema, 3 OAuth
 integrations. → [View repo](https://github.com/katiesilorio/focusblock)
 
 
-**PropInspector** — AI-powered property inspection & work order generator
+**(Coming Soon) PropInspector** — AI-powered property inspection & work order generator
 Walk a unit, capture photos and notes, Claude API generates work orders.
 Built from property management experience at SMC East Bay (2,000+ units).
 → [View repo](https://github.com/katiesilorio/propinspector)
 
 
-**ReCert** — Food bank eligibility recertification app
+**(Coming Soon) ReCert** — Food bank eligibility recertification app
 Validated with Project DASH (DoorDash's food access initiative).
 → [View repo](https://github.com/katieislorio/recert)
 
 
-**TurnTrack** — Property turn management & contractor coordination
+**(Coming Soon) TurnTrack** — Property turn management & contractor coordination
 $7M in annual turnaround cost savings from process standardization at
 SMC East Bay. This is what should have existed then.
 → [View repo](https://github.com/katiesilorio/turntrack)
