@@ -19,7 +19,8 @@ Surfaces what matters from Slack, Jira, and Google Docs in a single prioritized 
 
 **(Prototype Coming Soon) PropInspector** — AI-powered property inspection & work order generator<br>
 Walk a unit, capture photos and notes, Claude API generates work orders. Built from property management experience at SMC East Bay (2,000+ units).<br>
-→ [View repo](https://github.com/katiesilorio/propinspector)
+→ [View repo](https://github.com/katiesilorio/propinspect)
+→ [View prototype](katiesilorio.github.io/propinspect)
 
 
 **(Prototype Coming Soon) ReCert** — Food bank eligibility recertification app<br>
