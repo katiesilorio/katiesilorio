@@ -17,10 +17,10 @@ Surfaces what matters from Slack, Jira, and Google Docs in a single prioritized 
 → [View repo](https://github.com/katiesilorio/focusblock)
 
 
-**(Prototype Coming Soon) PropInspector** — AI-powered property inspection & work order generator<br>
+**PropInspector** — AI-powered property inspection & work order generator<br>
 Walk a unit, capture photos and notes, Claude API generates work orders. Built from property management experience at SMC East Bay (2,000+ units).<br>
-→ [View repo](https://github.com/katiesilorio/propinspect)
-→ [View prototype](katiesilorio.github.io/propinspect)
+→ [View repo](https://github.com/katiesilorio/propinspect)<br>
+→ [View prototype v1](https://katiesilorio.github.io/propinspect)
 
 
 **(Prototype Coming Soon) ReCert** — Food bank eligibility recertification app<br>
