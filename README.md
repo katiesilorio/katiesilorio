@@ -24,7 +24,7 @@ Walk a unit, capture photos and notes, Claude API generates work orders. Built f
 
 **(Coming Soon) ReCert** — Food bank eligibility recertification app<br>
 Validated with Project DASH (DoorDash's food access initiative).<br>
-→ [View repo](https://github.com/katieislorio/recert)
+→ [View repo](https://github.com/katiesilorio/recert)
 
 
 **(Coming Soon) TurnTrack** — Property turn management & contractor coordination<br>
