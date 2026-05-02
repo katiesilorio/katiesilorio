@@ -12,22 +12,22 @@ strategy across 8 teams and thousands of users.
 ## 🔷 Projects
 
 
-**FocusBlock** — AI attention layer for async teams<br>
+**(Prototype Coming Soon) FocusBlock** — AI attention layer for async teams<br>
 Surfaces what matters from Slack, Jira, and Google Docs in a single prioritized feed. Full PRD, AI architecture, Supabase schema, 3 OAuthintegrations.<br>
 → [View repo](https://github.com/katiesilorio/focusblock)
 
 
-**(Coming Soon) PropInspector** — AI-powered property inspection & work order generator<br>
+**(Prototype Coming Soon) PropInspector** — AI-powered property inspection & work order generator<br>
 Walk a unit, capture photos and notes, Claude API generates work orders. Built from property management experience at SMC East Bay (2,000+ units).<br>
 → [View repo](https://github.com/katiesilorio/propinspector)
 
 
-**(Coming Soon) ReCert** — Food bank eligibility recertification app<br>
+**(Prototype Coming Soon) ReCert** — Food bank eligibility recertification app<br>
 Validated with Project DASH (DoorDash's food access initiative).<br>
 → [View repo](https://github.com/katiesilorio/recert)
 
 
-**(Coming Soon) TurnTrack** — Property turn management & contractor coordination<br>
+**(Prototype Coming Soon) TurnTrack** — Property turn management & contractor coordination<br>
 $7M in annual turnaround cost savings from process standardization at SMC East Bay. This is what should have existed then.<br>
 → [View repo](https://github.com/katiesilorio/turntrack)
 
